@@ -1,0 +1,11 @@
+﻿h3{
+    font-size: 24pt;
+    font-family: 'Times New Roman';
+}
+
+table, td{
+    border: 2px solid black;
+    border-collapse:collapse;
+    padding: 5px;
+    font-family: sans-serif;
+}
